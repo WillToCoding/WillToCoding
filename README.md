@@ -6,7 +6,7 @@
 🔸 Apasionado por crear apps que unen tecnología y experiencia de usuario.  
 🔸 Foco en **iOS, Swift y el ecosistema Apple**, explorando también **IA y accesibilidad**.  
 🔸 La metáfora de mi camino como dev: **camello → león → niño**  
-  - 🐪 Aprendiendo las bases de Swift y el entorno Apple.  
+  - 🐫 Aprendiendo las bases de Swift y el entorno Apple.  
   - 🦁 Rompiendo la dependencia de tutoriales para crear mis propias soluciones.  
   - 👶 Jugando con libertad para innovar y transformar ideas en apps reales.  
 
