@@ -1,4 +1,4 @@
-# ![Tu Logo](./logo.jpeg) Hola, mi nombre es **Juan Carlos Morán** 👋
+# Hola, mi nombre es **Juan Carlos Morán** 👋
 ### Full Stack Developer | Unity Developer | iOS Developer
 
 ![Banner](./banner.jpeg)
