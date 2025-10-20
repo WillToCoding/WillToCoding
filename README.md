@@ -1,5 +1,5 @@
 # Hola, mi nombre es **Juan Carlos Morán** 👋
-### Full Stack Developer | Unity Developer | iOS Developer
+### iOS Developer
 
 ![Banner](./banner.jpeg)
 
