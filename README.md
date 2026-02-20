@@ -38,7 +38,7 @@ Co-Founder de **Imagilang**, app educativa para aprender idiomas actualmente en 
 | Proyecto | Descripción | Tech |
 |----------|-------------|------|
 | [**Imagilang**](https://www.imagilang.com) | App educativa de aprendizaje de inglés mediante gamificación | Swift, Unity, Firebase |
-| [**Ejercicios-iOS**]([https://github.com/WillToCoding/Ejercicios-iOS](https://github.com/WillToCoding/150-swift-exercises)) | 150 ejercicios interactivos de algoritmia en Swift 6 | Swift 6, SwiftUI, MVVM |
+| [**Ejercicios-iOS**](https://github.com/WillToCoding/150-swift-exercises) | 150 ejercicios interactivos de algoritmia en Swift 6 | Swift 6, SwiftUI, MVVM |
 | [**MisMangas**](https://github.com/WillToCoding/MisMangas) | App de gestión de colección de mangas | SwiftUI, SwiftData |
 
 ---
