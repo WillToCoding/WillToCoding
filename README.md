@@ -2,9 +2,12 @@
 
 ![Banner](./banner.png)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0D96F6&center=true&vCenter=true&width=600&lines=iOS+Developer;Swift+6+%7C+SwiftUI+%7C+Clean+Architecture;Building+apps+for+the+Apple+ecosystem)](https://github.com/WillToCoding)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancarlosmoránmartín/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WillToCoding)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willtocoding@gmail.com)
+[![Newsletter](https://img.shields.io/badge/Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://www.linkedin.com/newsletters/willtocoding-7375954117069856768/)
 
 </div>
 
@@ -15,6 +18,13 @@ iOS Developer en Madrid especializado en el ecosistema Apple. Desarrollo nativo 
 Co-Founder de **Imagilang**, app educativa para aprender idiomas actualmente en beta en App Store.
 
 > *"WillToCoding"* — Inspirado en la filosofía de Nietzsche y la voluntad de poder aplicada al desarrollo de software.
+
+---
+
+## Actualmente
+
+- Explorando **Foundation Models** de Apple para integración de IA on-device
+- Escribiendo sobre desarrollo iOS en mi [Newsletter](https://www.linkedin.com/newsletters/willtocoding-7375954117069856768/)
 
 ---
 
@@ -37,8 +47,8 @@ Co-Founder de **Imagilang**, app educativa para aprender idiomas actualmente en 
 
 | Proyecto | Descripción | Tech |
 |----------|-------------|------|
-| [**Imagilang**](https://www.imagilang.com) | App educativa de aprendizaje de inglés mediante gamificación | Swift, Unity, Firebase |
-| [**Ejercicios-iOS**](https://github.com/WillToCoding/150-swift-exercises) | 150 ejercicios interactivos de algoritmia en Swift 6 | Swift 6, SwiftUI, MVVM |
+| [**Imagilang**](https://github.com/WillToCoding/Imagilang) | App educativa de aprendizaje de inglés mediante gamificación | Swift, Unity, Firebase |
+| [**Ejercicios-iOS**](https://github.com/WillToCoding/Ejercicios-iOS) | 150 ejercicios interactivos de algoritmia en Swift 6 | Swift 6, SwiftUI, MVVM |
 | [**MisMangas**](https://github.com/WillToCoding/MisMangas) | App de gestión de colección de mangas | SwiftUI, SwiftData |
 
 ---
