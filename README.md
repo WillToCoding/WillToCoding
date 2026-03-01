@@ -12,7 +12,7 @@
 
   ## Sobre mí
 
-  iOS Developer en Madrid especializado en el ecosistema Apple. Desarrollo nativo con **Swift 6** y **SwiftUI**, enfocado en **Clean Architecture** y **Strict Concurrency** para aplicaciones multiplataforma: iOS, iPadOS, macOS, watchOS, tvOS y visionOS.
+  iOS Developer especializado en el ecosistema Apple. Desarrollo nativo con **Swift 6** y **SwiftUI**, enfocado en **Clean Architecture** y **Strict Concurrency** para aplicaciones multiplataforma: iOS, iPadOS, macOS, watchOS, tvOS y visionOS.
 
   Co-Founder de **Imagilang**, app educativa para aprender idiomas actualmente en beta en App Store.
 
