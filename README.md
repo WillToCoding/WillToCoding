@@ -16,14 +16,14 @@
 
   Co-Founder de **Imagilang**, app educativa para aprender idiomas actualmente en beta en App Store.
 
-  > *"WillToCoding"* — Del "Wille zur Macht" de Nietzsche al "Will to Code".
+  > *"WillToCoding"* — Del "Wille zur Macht" de Nietzsche al "Will to Coding".
 
   ---
 
   ## Actualmente
 
   - Explorando **Foundation Models** de Apple para integración de IA on-device
-  - 🔌 Experimentando con **Model Context Protocol** (MCP)
+  - Experimentando con **Model Context Protocol** (MCP)
   - Escribiendo sobre desarrollo iOS en mi [Newsletter](https://www.linkedin.com/newsletters/willtocoding-7375954117069856768/)
 
   ---
