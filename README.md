@@ -16,7 +16,7 @@
 
   Co-Founder de **Imagilang**, app educativa para aprender idiomas actualmente en beta en App Store.
 
-  > *"WillToCoding"* — Inspirado en la filosofía de Nietzsche y la voluntad de poder aplicada al desarrollo de software.
+  > *"WillToCoding"* — Del "Wille zur Macht" de Nietzsche al "Will to Code".
 
   ---
 
