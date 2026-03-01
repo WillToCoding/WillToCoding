@@ -36,7 +36,6 @@
   ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![AI-Augmented Dev](https://img.shields.io/badge/AI--Augmented_Dev-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white)
   ![Xcode Cloud](https://img.shields.io/badge/Xcode_Cloud-D4AF37?style=for-the-badge&logo=xcode&logoColor=white)
 
   ---
