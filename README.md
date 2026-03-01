@@ -23,6 +23,7 @@
   ## Actualmente
 
   - Explorando **Foundation Models** de Apple para integración de IA on-device
+  - 🔌 Experimentando con **Model Context Protocol** (MCP)
   - Escribiendo sobre desarrollo iOS en mi [Newsletter](https://www.linkedin.com/newsletters/willtocoding-7375954117069856768/)
 
   ---
