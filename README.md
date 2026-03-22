@@ -53,7 +53,7 @@
 
   ## Experiencia
 
-  **Co-Founder & Full Stack Developer** · Imagilang · `sept. 2024 - dic. 2025`
+  **Co-Founder & iOS Developer** · Imagilang · `sept. 2024 - dic. 2025`
 
   **Unity Developer** · Haier · `mar. 2025 - jun. 2025`
 
